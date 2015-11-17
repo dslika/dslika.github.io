@@ -1,0 +1,32 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+pygments: true
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: Dslika
+  email: dslika.ogr@gmail.com
+  link: http://dslika.org
+  github: http://github.com/dslika
+
+# 站点信息
+title: dslika.org
+description: Dslika's Blog
+url: http://dslika.org
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: http://dl.dropbox.com/u/18354248/_avatar.jpg
+favicon: http://dl.dropbox.com/u/18354248/_avatar.jpg 
+
+# google analytics 设置
+ga:
+  id: UA-61188613-1
+  url: dslika.org
+
+# disqus 设置
+disqus:
+  shortname: dslika
